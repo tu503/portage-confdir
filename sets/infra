@@ -1,4 +1,5 @@
 app-portage/gentoolkit
+sys-process/lsof
 sys-boot/grub
 app-editors/vim
 dev-db/etcd
