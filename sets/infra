@@ -6,6 +6,7 @@ dev-db/etcd
 app-misc/tmux
 dev-lang/go
 sys-apps/ipmitool
+sys-apps/dmidecode
 dev-go/go-bindata
 sys-fs/btrfs-progs
 app-emulation/docker

@@ -1,0 +1,3 @@
+@infra
+sys-cluster/ceph
+app-emulation/qemu
