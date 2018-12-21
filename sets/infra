@@ -23,3 +23,5 @@ net-misc/cni-plugins
 net-dns/bind-tools
 app-emulation/flannel
 net-firewall/conntrack-tools
+net-vpn/openconnect
+net-vpn/openvpn
