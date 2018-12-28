@@ -9,6 +9,7 @@ sys-apps/ipmitool
 sys-apps/dmidecode
 dev-go/go-bindata
 sys-fs/btrfs-progs
+sys-fs/xfsprogs
 app-emulation/docker
 app-emulation/docker-compose
 sys-cluster/kube-apiserver
@@ -22,3 +23,5 @@ net-misc/cni-plugins
 net-dns/bind-tools
 app-emulation/flannel
 net-firewall/conntrack-tools
+net-vpn/openconnect
+net-vpn/openvpn
