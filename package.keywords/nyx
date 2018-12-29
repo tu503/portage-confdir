@@ -1,0 +1,5 @@
+# required by nyx (argument)
+net-misc/nyx ~amd64
+# required by net-misc/nyx
+# required by nyx (argument)
+net-libs/stem ~amd64
