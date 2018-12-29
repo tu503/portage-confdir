@@ -25,10 +25,7 @@ app-emulation/flannel
 net-firewall/conntrack-tools
 net-vpn/openconnect
 net-vpn/openvpn
-<<<<<<< HEAD
 net-analyzer/traceroute
 net-analyzer/tcpdump
-=======
 net-vpn/tor
 net-misc/nyx
->>>>>>> 8cf6037ad0ce633af6a6d9620504e1285f38b1fc
