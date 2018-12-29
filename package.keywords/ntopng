@@ -1,0 +1,5 @@
+# required by net-analyzer/ntopng
+# required by ntopng (argument)
+net-libs/nDPI ~amd64
+# required by ntopng (argument)
+net-analyzer/ntopng ~amd64
