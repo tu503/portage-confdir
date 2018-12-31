@@ -27,3 +27,4 @@ net-vpn/openconnect
 net-vpn/openvpn
 net-vpn/tor
 net-misc/nyx
+app-admin/syslog-ng
