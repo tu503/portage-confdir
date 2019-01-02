@@ -1,0 +1,6 @@
+ required by app-emulation/virt-manager
+# required by @infra
+# required by @ceph
+# required by @selected
+# required by @world (argument)
+dev-libs/libxml2 python

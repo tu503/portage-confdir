@@ -11,6 +11,9 @@ dev-go/go-bindata
 sys-fs/btrfs-progs
 app-emulation/docker
 app-emulation/docker-compose
+app-emulation/flannel
+app-emulation/virt-manager
+app-emulation/libvirt
 sys-cluster/kube-apiserver
 sys-cluster/kube-controller-manager
 sys-cluster/kube-proxy
@@ -20,5 +23,4 @@ sys-cluster/kubelet
 net-misc/socat
 net-misc/cni-plugins
 net-dns/bind-tools
-app-emulation/flannel
 net-firewall/conntrack-tools
