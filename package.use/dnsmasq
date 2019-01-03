@@ -1,0 +1,8 @@
+# required by app-emulation/libvirt[virt-network]
+# required by app-emulation/libvirt-glib
+# required by app-emulation/virt-manager
+# required by @infra
+# required by @ceph
+# required by @selected
+# required by @world (argument)
+net-dns/dnsmasq script
