@@ -4,6 +4,7 @@ sys-boot/grub
 app-editors/vim
 dev-db/etcd
 app-misc/tmux
+app-misc/screen
 dev-lang/go
 sys-apps/ipmitool
 sys-apps/dmidecode
@@ -29,6 +30,10 @@ net-vpn/openconnect
 net-vpn/openvpn
 net-analyzer/traceroute
 net-analyzer/tcpdump
+net-analyzer/nmap
 net-vpn/tor
 net-misc/nyx
 app-admin/syslog-ng
+net-misc/ipcalc
+net-misc/rclone
+www-servers/apache
