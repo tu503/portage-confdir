@@ -1,4 +1,4 @@
- required by app-emulation/virt-manager
+# required by app-emulation/virt-manager
 # required by @infra
 # required by @ceph
 # required by @selected
