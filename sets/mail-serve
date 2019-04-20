@@ -1,0 +1,10 @@
+net-dns/bind
+net-mail/dovecot
+mail-mta/postfix
+net-mail/imapsync
+mail-filter/libmilter
+mail-filter/libspf2
+mail-filter/opendkim
+mail-filter/opendmarc
+mail-filter/postgrey
+mail-filter/pypolicyd-spf
