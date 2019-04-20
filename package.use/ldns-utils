@@ -1,0 +1,2 @@
+net-dns/ldns-utils ecdsa examples gost
+net-libs/ldns gost vim-syntax

@@ -1,0 +1,26 @@
+sys-kernel/gentoo-sources ~amd64
+
+# roundcube stuff
+mail-client/roundcube ~amd64
+dev-php/PEAR-Mail_Mime ~amd64
+dev-php/PEAR-Net_Socket ~amd64
+
+# certbot stuff
+dev-python/pyrfc3339 ~amd64
+app-crypt/acme ~amd64
+dev-python/parsedatetime ~amd64
+dev-python/zope-component ~amd64
+dev-python/namespace-zope ~amd64
+app-crypt/certbot ~amd64
+
+# required by app-crypt/acme-tiny (argument)
+=app-crypt/acme-tiny-20170207-r1 ~amd64
+
+mail-filter/opendmarc ~amd64
+
+dev-python/josepy ~amd64
+
+# net-mail/mailman ~amd64
+
+
+net-dns/unbound ~amd64
