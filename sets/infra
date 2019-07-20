@@ -37,3 +37,5 @@ app-admin/syslog-ng
 net-misc/ipcalc
 net-misc/rclone
 www-servers/apache
+sys-block/fio
+sys-apps/smartmontools
