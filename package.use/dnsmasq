@@ -5,4 +5,4 @@
 # required by @ceph
 # required by @selected
 # required by @world (argument)
-net-dns/dnsmasq script
+net-dns/dnsmasq script tftp

@@ -39,3 +39,7 @@ net-misc/rclone
 www-servers/apache
 sys-block/fio
 sys-apps/smartmontools
+sys-apps/lshw
+sys-boot/syslinux
+dev-util/catalyst
+
