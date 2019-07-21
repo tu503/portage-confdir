@@ -42,4 +42,6 @@ sys-apps/smartmontools
 sys-apps/lshw
 sys-boot/syslinux
 dev-util/catalyst
+app-metrics/node_exporter
+
 
