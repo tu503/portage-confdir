@@ -43,5 +43,10 @@ sys-apps/lshw
 sys-boot/syslinux
 dev-util/catalyst
 app-metrics/node_exporter
+app-admin/gentoo-rsync-mirror
+app-portage/mirrorselect
+sys-process/dcron
+net-analyzer/wireshark
+
 
 
