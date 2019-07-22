@@ -31,6 +31,8 @@ net-vpn/openvpn
 net-analyzer/traceroute
 net-analyzer/tcpdump
 net-analyzer/nmap
+#net-misc/nyx
+#net-vpn/tor
 app-admin/syslog-ng
 net-misc/ipcalc
 net-misc/rclone
