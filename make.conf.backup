@@ -15,4 +15,3 @@ PKGDIR="/usr/portage/packages"
 # Please keep this setting intact when reporting bugs.
 LC_MESSAGES=C
 MAKEOPTS="-j25"
-GENTOO_MIRRORS="https://104.19.138.75/gentoo/=o https://104.19.135.75/gentoo/ https://104.19.137.75/gentoo/ https://104.19.139.75/gentoo/ https://mirrors.evowise.com/gentoo/"
