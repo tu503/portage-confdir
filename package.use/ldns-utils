@@ -1,1 +1,2 @@
 net-dns/ldns-utils dane ssl ecdsa examples gost
+net-libs/ldns gost
