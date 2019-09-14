@@ -47,6 +47,8 @@ app-admin/gentoo-rsync-mirror
 app-portage/mirrorselect
 sys-process/dcron
 net-analyzer/wireshark
+sys-apps/haveged
+net-dns/unbound
 
 
 
