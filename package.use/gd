@@ -1,0 +1,7 @@
+# required by app-text/texlive-core-2019-r4::gentoo
+# required by virtual/tex-base-0::gentoo
+# required by app-text/lcdf-typetools-2.106::gentoo[kpathsea]
+# required by app-text/texlive-2019-r1::gentoo
+# required by @infra (argument)
+# >=media-libs/gd-2.2.5-r2 png
+media-libs/gd png
