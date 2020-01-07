@@ -51,3 +51,5 @@ sys-process/dcron
 net-analyzer/wireshark
 app-text/texlive
 app-admin/sysstat
+sys-apps/haveged
+net-dns/unbound
