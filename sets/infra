@@ -7,6 +7,7 @@ dev-db/etcd
 app-misc/tmux
 app-misc/screen
 dev-lang/go
+dev-lang/R
 sys-apps/ipmitool
 sys-apps/dmidecode
 dev-go/go-bindata
@@ -52,4 +53,4 @@ net-analyzer/wireshark
 app-text/texlive
 app-admin/sysstat
 sys-apps/haveged
-net-dns/unbound
+sys-apps/ethtool

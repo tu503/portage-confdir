@@ -1,2 +1,8 @@
 net-analyzer/wireshark -qt5
 
+# required by net-analyzer/wireshark-3.2.1::gentoo[minizip]
+# required by @infra
+# required by @selected
+# required by @world (argument)
+# >=sys-libs/zlib-1.2.11-r2 minizip
+sys-libs/zlib minizip
