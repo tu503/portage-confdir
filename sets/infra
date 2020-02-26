@@ -16,7 +16,7 @@ sys-fs/xfsprogs
 app-emulation/docker
 #app-emulation/docker-compose
 app-emulation/flannel
-#app-emulation/virt-manager
+app-emulation/virt-manager
 app-emulation/libvirt
 # sys-cluster/kube-apiserver
 # sys-cluster/kube-controller-manager
