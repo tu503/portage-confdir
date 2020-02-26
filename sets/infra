@@ -54,3 +54,4 @@ app-text/texlive
 app-admin/sysstat
 sys-apps/haveged
 sys-apps/ethtool
+net-vpn/strongswan

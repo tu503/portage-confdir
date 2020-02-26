@@ -1,1 +1,3 @@
 sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+# required by terraform (argument)
+app-admin/terraform JSON
