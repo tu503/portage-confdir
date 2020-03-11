@@ -1,1 +1,1 @@
-app-emulation/qemu rbd spice
+app-emulation/qemu rbd spice usb usbredir
