@@ -3,7 +3,7 @@ app-portage/gentoolkit
 sys-process/lsof
 sys-boot/grub
 app-editors/vim
-dev-db/etcd
+#dev-db/etcd
 app-misc/tmux
 app-misc/screen
 dev-lang/go
@@ -57,3 +57,4 @@ sys-apps/ethtool
 net-vpn/strongswan
 net-wireless/rtl-sdr
 app-misc/rtlamr
+net-fs/samba
