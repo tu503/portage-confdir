@@ -32,6 +32,7 @@ net-firewall/conntrack-tools
 net-vpn/openconnect
 net-vpn/openvpn
 net-analyzer/traceroute
+dev-util/strace
 net-analyzer/tcpdump
 net-analyzer/nmap
 #net-misc/nyx
