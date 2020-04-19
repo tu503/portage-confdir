@@ -1,0 +1,6 @@
+sys-boot/grub
+app-editors/vim
+app-misc/tmux
+sys-fs/xfsprogs
+sys-apps/haveged
+sys-process/dcron

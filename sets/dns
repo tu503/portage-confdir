@@ -1,0 +1,6 @@
+@base
+net-dns/bind-tools
+net-dns/unbound
+net-dns/nsd
+net-dns/ldns-utils
+net-libs/ldns

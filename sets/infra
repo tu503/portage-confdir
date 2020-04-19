@@ -1,10 +1,8 @@
+@base
 sys-kernel/genkernel-next
 app-portage/gentoolkit
 sys-process/lsof
-sys-boot/grub
-app-editors/vim
 #dev-db/etcd
-app-misc/tmux
 app-misc/screen
 dev-lang/go
 dev-lang/R
@@ -12,7 +10,6 @@ sys-apps/ipmitool
 sys-apps/dmidecode
 dev-go/go-bindata
 sys-fs/btrfs-progs
-sys-fs/xfsprogs
 app-emulation/docker
 #app-emulation/docker-compose
 app-emulation/flannel
@@ -49,11 +46,9 @@ dev-util/catalyst
 app-metrics/node_exporter
 app-admin/gentoo-rsync-mirror
 app-portage/mirrorselect
-sys-process/dcron
 net-analyzer/wireshark
 app-text/texlive
 app-admin/sysstat
-sys-apps/haveged
 sys-apps/ethtool
 net-vpn/strongswan
 net-wireless/rtl-sdr
